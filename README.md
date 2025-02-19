@@ -2,6 +2,8 @@
 <h2>Web-Based Text Editor Using HTML, CSS, and JavaScript</h2>
 <p>A text editor built with HTML, CSS, and JavaScript is a simple yet powerful web-based tool that allows users to create, edit, and format text directly in their browser. This lightweight editor mimics basic features found in traditional text editors like Notepad while offering additional formatting options. It is a great project for developers looking to enhance their front-end development skills.</p>
 
+<h2>Live View:</h2> https://vineetkumarwork.github.io/Text-Editor/
+
 <h2>Key Features</h2>
 <ol>
 <li><b>Basic Text Editing:</b> Users can type, delete, and modify text within an interactive content area.</li>
