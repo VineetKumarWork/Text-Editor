@@ -4,18 +4,18 @@
 
 <h2>Key Features</h2>
 <ol>
-<li>Basic Text Editing: Users can type, delete, and modify text within an interactive content area.</li>
-<li>Text Formatting: Includes options to make text bold, italic, and underlined.</li>
-<li>Font Customization: Users can change the font size, style, and color.</li>
-<li>Undo & Redo: Provides functionality to reverse or reapply changes.</li>
-<li>Save & Load: Enables users to save their work as a text file and reload it when needed.</li>
-<li>Keyboard Shortcuts: Implements useful shortcuts like Ctrl + B for bold, Ctrl + I for italics, and Ctrl + U for underlining.</li>
-<li>Dark Mode Support: Allows users to switch between light and dark themes for a better reading experience.</li>
-<li>Drag & Drop File Support: Users can drag and drop text files directly into the editor to open them.</li>
-<li>Auto-save Feature: Automatically saves content to local storage, preventing accidental data loss.</li>
+<li><b>Basic Text Editing:</b> Users can type, delete, and modify text within an interactive content area.</li>
+<li><b>Text Formatting:</b> Includes options to make text bold, italic, and underlined.</li>
+<li><b>Font Customization:</b> Users can change the font size, style, and color.</li>
+<li><b>Undo & Redo:</b> Provides functionality to reverse or reapply changes.</li>
+<li><b>Save & Load:</b> Enables users to save their work as a text file and reload it when needed.</li>
+<li><b>Keyboard Shortcuts:</b> Implements useful shortcuts like Ctrl + B for bold, Ctrl + I for italics, and Ctrl + U for underlining.</li>
+<li><b>Dark Mode Support:</b> Allows users to switch between light and dark themes for a better reading experience.</li>
+<li><b>Drag & Drop File Support:</b> Users can drag and drop text files directly into the editor to open them.</li>
+<li><b>Auto-save Feature:</b> Automatically saves content to local storage, preventing accidental data loss.</li>
 
 </ol>
 <h2>Technologies Used</h2>
-<li>HTML: Provides the basic structure of the editor, including the text input area and toolbar buttons.</li>
-<li>CSS: Styles the editor, ensuring a clean and user-friendly interface with modern UI design elements.</li>
-<li>JavaScript: Handles all dynamic functionalities such as text formatting, keyboard shortcuts, file operations, and saving/loading content.</li>Web-Based Text Editor Using HTML, CSS, and JavaScript
+<li><b>HTML:</b> Provides the basic structure of the editor, including the text input area and toolbar buttons.</li>
+<li><b>CSS:</b> Styles the editor, ensuring a clean and user-friendly interface with modern UI design elements.</li>
+<li><b>JavaScript:</b> Handles all dynamic functionalities such as text formatting, keyboard shortcuts, file operations, and saving/loading content.</li>
