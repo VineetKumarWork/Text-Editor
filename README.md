@@ -10,11 +10,8 @@
 <li><b>Text Formatting:</b> Includes options to make text bold, italic, and underlined.</li>
 <li><b>Font Customization:</b> Users can change the font size, style, and color.</li>
 <li><b>Undo & Redo:</b> Provides functionality to reverse or reapply changes.</li>
-<li><b>Save & Load:</b> Enables users to save their work as a text file and reload it when needed.</li>
 <li><b>Keyboard Shortcuts:</b> Implements useful shortcuts like Ctrl + B for bold, Ctrl + I for italics, and Ctrl + U for underlining.</li>
-<li><b>Dark Mode Support:</b> Allows users to switch between light and dark themes for a better reading experience.</li>
-<li><b>Drag & Drop File Support:</b> Users can drag and drop text files directly into the editor to open them.</li>
-<li><b>Auto-save Feature:</b> Automatically saves content to local storage, preventing accidental data loss.</li>
+
 
 </ol>
 <h2>Technologies Used</h2>
